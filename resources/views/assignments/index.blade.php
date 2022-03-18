@@ -1,0 +1,1 @@
+<h1> Eta es la página de asignaciones {{ $name }}</h1>
