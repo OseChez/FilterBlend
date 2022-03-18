@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -59,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# FilterBlend
+Este repositorio es una  versión restaurada  del repositorio oficial   ilyashubin / FilterBlend  que es una App hecha en Vue en la versión 1.x ya que maneja elementos viejos para esa versión de Vue. Esta versión esta corregida para versiones más recientes de Vue que se pueden cargar desde el framework Laravel, de hecho, esta versión corre como una App hecha con ese framework
+>>>>>>> 78229cd51dfe5b3a8b499fb93c7db38232d66fff
