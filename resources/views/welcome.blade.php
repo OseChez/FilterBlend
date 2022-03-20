@@ -26,32 +26,12 @@
       <section class="blog_area">
           <div id="app" class="container">
             <div class="row">
-              <div class="col-lg-8">
-                  <h2>Laravel AutoComplete</h2>
-                  {!! Form::open() !!}
-                  {!! Form::label('auto', 'Encontrar un Producto: ') !!}
-                  {!! Form::text('auto', '',['id'=>'auto']) !!}
-                  </br>
-                  {!! Form::label('response', 'Su clave de producto es : ') !!}
-                  {!! Form::text('response', '',['id'=>'response','disabled' => 'disabled']) !!}
-                  {!! Form::close() !!}
-              </div>
+              <app-component></app-component>
             </div>
         </div>
       </section>
    
-      <!--================  Area script Jquery =================-->
-      <script>
-        $(function(){
-          $('#auto').autocomplete({
-              source:"getdata",
-              minLength: 3,
-              select: function(event, ui){
-                $("#response").val(ui.item.id);
-              }
-         });
-       });
-      </script>
+   
        
     </body>
 </html>
