@@ -1,4 +1,17 @@
-<<<<<<< HEAD
+#Requerimientos de Software
+Xampp, NideJs 12.x o superior, Composer y Git(para descargar el repo)
+#Como restaurar el proyecto
+win + r cmd o GNU/linux ctrl + t
+`git clone https://github.com/OseChez/FilterBlend.git`
+despues cd FilterBlend o el nombre que haya quedado en la carpeta que has descargado desde github
+y ya teniendo instalado composer
+`composer install`
+Ya teniendo instalado nodejs
+Por último:
+`npm install --global cross-env`
+`npm run dev`
+`npm run watch`
+Listo empieza a hackear la App 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
