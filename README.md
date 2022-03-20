@@ -1,5 +1,5 @@
 #Requerimientos de Software </br>
-<p align="center">Xampp, NideJs 12.x o superior, Composer y Git(para descargar el repo)</p>
+<p align="center">Xampp, NodeJs 12.x o superior, Composer y Git(para descargar el repo)</p>
 #Como restaurar el proyecto</br>
 <p>win + r cmd o GNU/linux ctrl + t</p></br>
 <pre>git clone https://github.com/OseChez/FilterBlend.git</pre></br>
